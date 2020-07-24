@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Working on Kubernetes / OpenShift 4.x
+
 <!--
 **bmillemathias/bmillemathias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
