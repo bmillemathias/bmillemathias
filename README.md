@@ -2,6 +2,8 @@
 
 Working on Kubernetes / OpenShift 4.x
 
+[![Alt text](https://img.youtube.com/vi/WRCA_Fo0rWA/0.jpg)](https://www.youtube.com/watch?v=WRCA_Fo0rWA)
+
 <!--
 **bmillemathias/bmillemathias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
