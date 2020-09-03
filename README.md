@@ -1,7 +1,8 @@
 ### Hi I'm Baptiste Mille-Mathias. 👋
 
 Working with on Kubernetes, OpenShift 4.x, Ansible.
-Strong Open-Source commitment. 
+
+I love Open-Source and I have a strong Open-Source commitment. 
 
 Digital name: `bmillemathias` or `baptistemm`
 
