@@ -1,14 +1,9 @@
-### Hi there 👋
-
-Hi I'm Baptiste Mille-Mathias.
+### Hi I'm Baptiste Mille-Mathias. 👋
 
 Working with on Kubernetes, OpenShift 4.x, Ansible.
 Strong Open-Source commitment. 
 
-
-Digital name: bmillemathias or baptistemm
-
-[![Alt text](https://img.youtube.com/vi/WRCA_Fo0rWA/0.jpg)](https://www.youtube.com/watch?v=WRCA_Fo0rWA)
+Digital name: `bmillemathias` or `baptistemm`
 
 <!--
 **bmillemathias/bmillemathias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
